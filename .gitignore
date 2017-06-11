@@ -1,0 +1,6 @@
+packages
+
+bin
+obj
+/.vs/消息中心/v14/*.suo
+/WAMPv2Client/.vs/WAMPv2Client/v14/*.suo
